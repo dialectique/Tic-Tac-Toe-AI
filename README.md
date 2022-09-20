@@ -1,5 +1,5 @@
 # Tic-Tac-Toe app
-- Tic-Tac-Toe game for on human player.
+- Tic-Tac-Toe game for one human player vs AI
   - https://fr.wikipedia.org/wiki/Tic-tac-toe
 - AI implemented with minimax algorithm optimized with alpha-beta pruning.
   - https://en.wikipedia.org/wiki/Minimax
